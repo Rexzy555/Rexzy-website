@@ -1,0 +1,86 @@
+body{
+    background: url(images/background%202.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+#logo img{
+    height: 70px;
+    border: none;
+}
+
+#logo2{
+    height: 50px;
+    margin-top: 30px;
+}
+#logo3{
+    height: 50px;
+    width:300px;
+    margin-top: 30px;
+}
+
+.nav-item{
+    margin-left: 30px;
+}
+ul{
+    margin-top: 30px;
+}
+
+#ig img{height: 20px;}
+#twitter img{height: 20px;}
+#facebook img{height: 20px;}
+#audiomack img{height: 20px;}
+#youtube img{height: 20px;}
+#whatsapp img{height: 20px;}
+
+.card{
+    margin-top: 50px;
+    margin-left: 50px
+}
+
+.pics{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#row1{
+    height: 300px;
+    margin-left: 75px;
+    margin-bottom: 30px;
+}
+
+#row1:hover{
+    box-shadow: 0 0 0 3px yellow;
+    cursor: pointer;
+}
+
+.box{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 250px;
+    width: auto;
+    background-color: darkgrey;
+}
+.box1{
+    display: none;
+}
+
+#cover{
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+#cover:hover{
+    box-shadow: 0 0 0 3px yellow;
+}
+
+.info{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 50px;
+    color: white;
+}
